@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-5.1.dtd">
+<!-- eric6 tasks file for project Mysite -->
+<!-- Saved: 2016-06-07, 16:29:55 -->
+<Tasks version="5.1">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="2">
+    <Summary>WARNING: keep the secret key used in production secret!</Summary>
+    <Description></Description>
+    <Created>2016-06-07, 15:18:08</Created>
+    <Resource>
+      <Filename>mysite/settings.py</Filename>
+      <Linenumber>24</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="2">
+    <Summary>WARNING: don't run with debug turned on in production!</Summary>
+    <Description></Description>
+    <Created>2016-06-07, 15:18:08</Created>
+    <Resource>
+      <Filename>mysite/settings.py</Filename>
+      <Linenumber>27</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
